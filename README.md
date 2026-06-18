@@ -77,14 +77,14 @@ Real-time chat platform with one-to-one and group messaging.
 ### 📋 [Task Tracker](https://github.com/NerojuPavan/Task-Tracker)
 Productivity app for managing tasks and workflows.
 
-`TypeScript` `React`
+`TypeScript` `React` `Go` `PostgreSQL`
 
 ---
 
 ### 🎥 [Zoom Clone](https://github.com/NerojuPavan/ZoomClone)
 Video conferencing app replicating core Zoom functionality.
 
-`TypeScript` `React`
+`TypeScript` `React` `NextJS` `Python` `FastAPI` , `WebRTC`
 
 ---
 
