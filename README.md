@@ -88,7 +88,7 @@ Video conferencing app replicating core Zoom functionality.
 
 ---
 
-### 📊 Log Monitoring System *(pushing soon)*
+### 📊 Log Monitoring System 
 Distributed log ingestion and monitoring platform.
 - Apache Kafka-based pipeline to decouple producers from consumers
 - Alerting pipeline with configurable delay windows to suppress noise
